@@ -20,12 +20,14 @@ graph TD
     A[Data Hunter] -->|Headlines| B(Llama AI Brain)
     B -->|Viral Content| C[Direct Gmail Alert]
     B -->|Viral Content| D[Google Sheets Calendar]
-🛠️ Tech Stack
+```
+
+**🛠️ Tech Stack**
 Language: Python 3.x
 AI Model: Meta Llama 3.2 (Local)
 APIs: NewsAPI, Google Sheets API v4
 Libraries: ollama, gspread, smtplib, requests
-📈 Business Impact
+**📈 Business Impact**
 Time Saved: 10+ hours/week of manual research.
 Cost Saved: $500+/year in subscriptions.
 Velocity: Instant turnaround for trending news.
